@@ -1,6 +1,3 @@
-Here’s a sample README file for the Vaidhya-Vaani repository. You can customize it further based on your specific needs:
-
-```markdown
 # Vaidhya-Vaani
 
 Vaidhya-Vaani is an innovative web application designed to enhance healthcare communication between patients and medical professionals. The platform provides a user-friendly interface for scheduling appointments, accessing medical advice, and managing health records.
