@@ -62,7 +62,7 @@ app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 ALLOWED_EXTENSIONS = {"mp3", "wav", "m4a", "webm"}
 
 try:
-    client = Groq(api_key="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")
+    client = Groq(api_key="your api key here")
 except Exception as e:
     logger.error("Failed to initialize Groq client: %s", str(e))
     raise

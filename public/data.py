@@ -24,7 +24,7 @@ CORS(app)
 model = whisper.load_model("small")
 translator = Translator()
 # Replace with your valid Hugging Face token
-HF_TOKEN = "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"  # e.g., "hf_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+HF_TOKEN = "your hugging face token here"  # e.g., "hf_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 try:
     print("Loading pyannote speaker diarization pipeline...")
     diarization_pipeline = Pipeline.from_pretrained(
