@@ -4,7 +4,7 @@ Vaidhya-Vaani is an innovative web application designed to enhance healthcare co
 
 ## Features
 
-- **User  Authentication**: Secure login and registration for patients and doctors.
+- **User  Authentication**: Secure login and registration for patients aand doctors.
 - **Appointment Management**: Easy scheduling and management of appointments.
 - **Health Records**: Secure storage and access to personal health information.
 - **Real-time Communication**: Chat functionality for instant communication between patients and doctors.
